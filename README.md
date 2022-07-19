@@ -1,7 +1,4 @@
 
-
-Flexible Grid System Scss Plus
-
 ## Install
 
 ### [Settings download](https://raw.githubusercontent.com/flexiblegs/flexiblegs-scss-plus/master/flexiblegs-settings.scss)
@@ -71,6 +68,3 @@ $ cd flexiblegs-scss-plus
 $ npm install
 $ npm run build
 ```
-
-## License
-Flexible Grid System is licensed under the [MIT](LICENSE) license.
