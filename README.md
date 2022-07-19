@@ -1,4 +1,4 @@
-# [flexiblegs-scss-plus](https://dnomak.com/flexiblegs/)
+
 
 Flexible Grid System Scss Plus
 
